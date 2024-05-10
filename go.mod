@@ -1,4 +1,4 @@
-module urlshortner
+module github.com/bharath2203/urlshortner
 
 go 1.21.5
 
